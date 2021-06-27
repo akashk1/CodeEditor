@@ -1,0 +1,10 @@
+.output_container {
+    width: 100%;
+
+    overflow: hidden;
+}
+
+.output {
+    width: 100%;
+    height: 340px;
+}

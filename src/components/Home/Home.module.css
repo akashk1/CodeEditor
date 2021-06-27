@@ -1,0 +1,15 @@
+.container {
+    height: 100%;
+    width: 100%;
+}
+
+.editor {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    height: 50%;
+}
+
+.output {
+    height: 60%;
+}
